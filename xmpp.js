@@ -4,7 +4,7 @@
 // license. For more info see the COPYING file.
 
 // Node libs
-var tcp = require("tcp");
+var tcp = require("net");
 
 // External libs
 var xml = require("./node-xml/lib/node-xml");
